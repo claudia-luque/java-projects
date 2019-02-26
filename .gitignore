@@ -1,2 +1,5 @@
 .DS_Store
 .idea
+.idea/gradle.xml
+.idea/libraries/Gradle__junit_junit_4_11.xml
+.iml
